@@ -7,5 +7,6 @@ void main()
   {
     printf("%d \n",i);
   }
-  getch();
+ 
+ getch();
 }
